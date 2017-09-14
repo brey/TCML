@@ -1,0 +1,51 @@
+# .pyc files
+*.pyc
+
+# mac files
+*.DS_Store
+
+# dotx files
+*.dotx
+
+# doc files
+*.doc
+
+# tif files
+*.tif
+
+# swp files
+*.swp
+
+# mp4 files
+*.mp4
+
+# zip files
+*.zip
+
+# netcdf files
+*.nc
+
+# zipped files
+*.Z
+*.gz
+
+#ignore .jupyter chekpoints folder
+.ipynb_checkpoints/
+
+# all temp folders
+tmp/
+
+# csv files
+*.csv
+
+# json files
+*.geojson
+
+# Setuptools distribution folder.
+/dist/
+
+# Build folder.
+build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
