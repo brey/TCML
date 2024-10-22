@@ -1,0 +1,24 @@
+name: tcml
+
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - dask
+  - geos
+  - geoviews
+  - holoviews
+  - hvplot>0.11.0
+  - ipykernel
+  - ipympl
+  - matplotlib
+  - netCDF4
+  - numpy
+  - pandas
+  - pip
+  - scipy
+  - tqdm
+  - xarray
+  - inspectds
+  - python-wget
